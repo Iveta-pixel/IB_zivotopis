@@ -1,0 +1,15 @@
+Profi foto_velikost 150px
+
+Emotikony před kontkaty: 
+\260E emotion pro telefonní sluchátko, velikost 20px
+\2709 emotikon pro e-mail, velikost 24px
+
+Nadpis h1 
+barva:darkred
+
+Nadpis h4 tučný 
+
+
+#FFF5EE barva pro pozadí kontakty, medailonek, vzdělání,
+#FAEBD7 barva pro kariéru, hobby
+#696969 pro názvy firem, kde jsem pracovala a škol,
